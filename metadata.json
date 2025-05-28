@@ -1,0 +1,5 @@
+{
+  "name": "Pandemic Dynamics Simulator",
+  "description": "A React application that simulates pandemic spread with adjustable controls and policies, visualizing data through charts and a hotspot map.",
+  "requestFramePermissions": []
+}
